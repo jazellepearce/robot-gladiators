@@ -209,6 +209,7 @@ footer {
   box-shadow: 0 0 0 3px -moz-mac-focusring;
   color: #222;
   outline: none;
+  appearance: none;
 }
 .select-dropdown option,
 .select-status option {
